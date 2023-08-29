@@ -26,6 +26,11 @@ body {
     justify-content: space-evenly
 }
 
+.card-text {
+    text-align:justify;
+    text-justify:inter-word;
+}
+
 .card-portfolio{
     background-color: rgba(137, 43, 226, 0.24);
     height: 50px;
